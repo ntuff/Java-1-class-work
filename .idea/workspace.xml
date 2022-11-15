@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68a21069-3d37-4bb7-aaba-2340e046756c" name="Changes" comment="Added if, if else, and else if classes.">
-      <change afterPath="$PROJECT_DIR$/src/FunWithWhileLoops.java" afterDir="false" />
+    <list default="true" id="68a21069-3d37-4bb7-aaba-2340e046756c" name="Changes" comment="Added class for while loops.">
+      <change afterPath="$PROJECT_DIR$/src/FunWithArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunWithRandoms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,17 +31,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/noah.tuff/IdeaProjects/Java-1-class-work",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/noah.tuff/IdeaProjects/Java-1-class-work&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.FunWithArrayLists">
+    <configuration name="FunWithArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunWithArrayLists" />
+      <module name="Java-1-class-work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunWithArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunWithArrays" />
+      <module name="Java-1-class-work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunWithRandoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunWithRandoms" />
+      <module name="Java-1-class-work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FunWithArrayLists" />
+        <item itemvalue="Application.FunWithArrays" />
+        <item itemvalue="Application.FunWithRandoms" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +84,13 @@
       <workItem from="1663328258163" duration="3888000" />
       <workItem from="1663341270960" duration="4672000" />
       <workItem from="1663696838184" duration="5355000" />
-      <workItem from="1663862531067" duration="3896000" />
+      <workItem from="1663862531067" duration="3936000" />
+      <workItem from="1663930940197" duration="617000" />
+      <workItem from="1663945391349" duration="562000" />
+      <workItem from="1663946029486" duration="2212000" />
+      <workItem from="1664906242748" duration="227000" />
+      <workItem from="1667326576389" duration="1541000" />
+      <workItem from="1668539037422" duration="1865000" />
     </task>
     <task id="LOCAL-00001" summary="Added arithmetic and relational operator classes.">
       <created>1663331574685</created>
@@ -88,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663868039637</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added class for while loops.">
+      <created>1663870880485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663870880485</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +156,7 @@
     <MESSAGE value="Completed equality and relational operators class and added account classes." />
     <MESSAGE value="Added account functionality." />
     <MESSAGE value="Added if, if else, and else if classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added if, if else, and else if classes." />
+    <MESSAGE value="Added class for while loops." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added class for while loops." />
   </component>
 </project>
